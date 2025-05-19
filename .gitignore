@@ -1,0 +1,20 @@
+# 1️⃣ Archivos sensibles CRÍTICOS
+.env                
+
+# 2️⃣ Dependencias de Node
+node_modules/     
+package-lock.json   
+
+# 3️⃣ Configuraciones de IDE/Editor
+.vscode/           
+.idea/            
+
+# 4️⃣ Archivos del sistema
+.DS_Store       
+Thumbs.db         
+
+# 5️⃣ Docker (si usas volúmenes locales)
+docker-compose.override.yml
+
+# 6️⃣ Archivos de Postman (opcional)
+coleccion de Postman.postman_collection.json
